@@ -2,6 +2,8 @@
 
 ## Introduction  
 Microstrip lines are a type of electrical transmission line used to convey microwave-frequency signals. This guide aims to provide an extensive overview of microstrip lines, detailing their theoretical foundations, design procedures, applications, and advanced topics.
+![Simulation of Micros](https://github.com/user-attachments/assets/671f18fc-3cad-4f6e-8be8-ccf5f027aa02)
+
 
 ## Theoretical Foundations  
 ### Definition  
