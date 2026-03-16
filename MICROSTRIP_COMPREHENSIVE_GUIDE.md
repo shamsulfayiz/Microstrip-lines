@@ -9,7 +9,9 @@ Microstrip lines are a type of electrical transmission line used to convey micro
 ### Definition  
 A microstrip line consists of a conducting strip separated from a ground plane by a dielectric layer. It is widely used in microwave engineering due to its ease of fabrication and integration with other circuit elements.
 
-### Key Parameters  
+### Key Parameters
+ <img width="2000" height="658" alt="image" src="https://github.com/user-attachments/assets/b47e887f-f08a-4da7-b1d9-576ad228499b" />
+
 1. **Width (W)** - The width of the strip conductor.  
 2. **Height (H)** - The thickness of the dielectric substrate.  
 3. **Dielectric Constant (ε_r)** - The relative permittivity of the dielectric material.
