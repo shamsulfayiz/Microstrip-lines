@@ -16,12 +16,6 @@ A microstrip line consists of a conducting strip separated from a ground plane b
 2. **Height (H)** - The thickness of the dielectric substrate.  
 3. **Dielectric Constant (ε_r)** - The relative permittivity of the dielectric material.
 
-### Propagation Characteristics  
-**Effective Dielectric Constant (ε_eff)**  
-The effective dielectric constant can be calculated using the following equations:
-\[ ε_{eff} = \frac{ε_{r} + 1}{2} + \frac{ε_{r} - 1}{2}\left( \frac{1}{\sqrt{1 + 12\frac{H}{W}}} \right) \]  
-The propagation velocity (v) is given by \[ v = \frac{c}{\sqrt{ε_{eff}}} \]  
-where *c* is the speed of light in vacuum.
 
 ## Design Procedures  
 ### Step 1: Determine Requirements  
