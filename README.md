@@ -2,6 +2,7 @@
 
 ## Introduction
 Microstrip lines are a widely used type of transmission line for microwave and RF applications. They consist of a conducting strip on a dielectric substrate, and are characterized by their ease of fabrication and integration in printed circuit boards (PCBs).
+![Microstrip Line](images/microstrip_line.png)
 
 ## Theoretical Foundations
 Microstrip lines operate based on the principles of electromagnetic wave propagation. The effective permittivity of the dielectric material influences the characteristics of the microstrip. Key parameters include:
