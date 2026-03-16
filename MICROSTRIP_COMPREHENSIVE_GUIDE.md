@@ -70,6 +70,9 @@ Using stubs and transformers for impedance matching.
 - Dielectric Loss  
 ### Nonlinear Effects  
 ### Microstrip Antenna Design
+###Future Trends in Microstrip Antenna Design
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5d6e81b2-31da-4591-aa08-08ba41424fa1" />
+
 
 ## Conclusion  
 Microstrip lines are essential components in high-frequency electronics, and mastering their design leads to efficient and effective microwave circuits. This guide serves as a fundamental resource for engineers and students alike.
