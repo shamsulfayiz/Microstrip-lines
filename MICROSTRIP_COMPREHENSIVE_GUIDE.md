@@ -53,8 +53,12 @@ Using stubs and transformers for impedance matching.
 (Field lines around the microstrip conductor)
 
 ## Applications  
-- Antennas  
-- Filters  
+- Antennas
+  <img width="1024" height="1024" alt="1773892292050466578114899237987" src="https://github.com/user-attachments/assets/53fcb4e5-5b78-4ced-9201-26b630b6bdae" />
+
+- Filters
+  <img width="1024" height="1024" alt="17738925577713379447761606541084" src="https://github.com/user-attachments/assets/9b408d9e-be9a-416b-81e3-19bd4baa94b5" />
+
 - Amplifiers  
 - Oscillators
 
