@@ -60,8 +60,8 @@ Using stubs and transformers for impedance matching.
   <img width="1024" height="1024" alt="17738925577713379447761606541084" src="https://github.com/user-attachments/assets/9b408d9e-be9a-416b-81e3-19bd4baa94b5" />
 
 - Amplifiers
-   ![Uploading 17738930392547395191903772354013.png…]()
- 
+  <img width="1024" height="1024" alt="17738930392547395191903772354013" src="https://github.com/user-attachments/assets/ece20e71-1c71-48ca-adbb-36a70fe2aea6" />
+
 - Oscillators
   <img width="1024" height="1024" alt="17738928951501660616209222606745" src="https://github.com/user-attachments/assets/df1e2ddf-b0dc-480a-b42d-6199732311a0" />
 
