@@ -61,7 +61,7 @@ carries the signal current
 
 
 W
-```
+
 ### Dielectric Substrate
 
 
@@ -234,10 +234,10 @@ enables compact microwave circuit design
 
 ### Quasi-TEM Mode Propagation
 
-```
+
 Hybrid field distribution affects impedance and phase velocity
 calculations
-```
+
 
 
 ### Design Parameters
