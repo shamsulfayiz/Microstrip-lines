@@ -59,8 +59,12 @@ Using stubs and transformers for impedance matching.
 - Filters
   <img width="1024" height="1024" alt="17738925577713379447761606541084" src="https://github.com/user-attachments/assets/9b408d9e-be9a-416b-81e3-19bd4baa94b5" />
 
-- Amplifiers  
+- Amplifiers
+   ![Uploading 17738930392547395191903772354013.png…]()
+ 
 - Oscillators
+  <img width="1024" height="1024" alt="17738928951501660616209222606745" src="https://github.com/user-attachments/assets/df1e2ddf-b0dc-480a-b42d-6199732311a0" />
+
 
 ## Advanced Topics  
 ### High Frequency Effects  
